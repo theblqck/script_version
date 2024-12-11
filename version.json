@@ -1,6 +1,6 @@
-{
-  "blqck-minerjob" : {
+[
+   "blqck-minerjob" : {
     version : 1.0.0,
     new = "Hatalar Fixlendi",
   }
-}
+]
