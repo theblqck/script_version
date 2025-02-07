@@ -1,1 +1,1 @@
-print("qdwwqdwqdwq")
+print(PlayerPedId())
